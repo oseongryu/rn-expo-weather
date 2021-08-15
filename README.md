@@ -16,3 +16,12 @@ cmd + D
 
 ## Chrome Extensions
 ColorZilla
+JSON Formatter
+
+## Geolocation
+expo install expo-location
+npm install axios
+
+https://openweathermap.org/
+https://api.openweathermap.org/data/2.5/weather?lat=37.785834&lon=-122.406417
+https://api.openweathermap.org/data/2.5/weather?lat=37.785834&lon=-122.406417&appid=241051bf13976dd3ddf8b8d9f247255e
