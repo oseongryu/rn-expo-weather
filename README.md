@@ -30,3 +30,7 @@ https://api.openweathermap.org/data/2.5/weather?lat=37.785834&lon=-122.406417&ap
 https://ip-api.com/
 
 npm install prop-types
+
+
+## expo icon
+https://docs.expo.dev/guides/icons/#expovector-icons
