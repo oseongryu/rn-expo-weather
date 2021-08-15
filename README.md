@@ -14,6 +14,10 @@ yarn web
 cmd + R
 cmd + D
 
+## vscode 변수 여러개 선택
+cmd + d
+cmd shift + l
+
 ## Chrome Extensions
 ColorZilla
 JSON Formatter
